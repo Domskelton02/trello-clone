@@ -5,7 +5,7 @@ const IdPage = ({
 }) => {
   return (
     <div>
-      ID Page!
+      Id: {params.id}
     </div>
   );
 };
