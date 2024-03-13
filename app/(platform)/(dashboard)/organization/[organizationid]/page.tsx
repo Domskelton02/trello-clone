@@ -1,6 +1,6 @@
 import { Suspense } from "react";
 
-import { Separator } from "@/components/ui/seperator";
+import { Separator } from "@/components/ui/separator";
 
 import { Info } from "./_components/info";
 import { BoardList } from "./_components/board-list";
